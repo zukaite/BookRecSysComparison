@@ -1,0 +1,4 @@
+# exclude data from source control by default
+src/data/goodreads_2m
+.DS_Store
+__pycache__
